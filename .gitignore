@@ -1,0 +1,8 @@
+# raw API dumps (regenerate with the scripts in tools/)
+data/arxiv_raw.json
+data/openalex_raw.json
+data/openalex_extra_candidates.json
+data/s2_venues.json
+__pycache__/
+*.pyc
+.DS_Store

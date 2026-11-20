@@ -1,0 +1,159 @@
+2024|arXiv|World Models for Autonomous Driving: An Initial Survey|2403.02622
+2025|arXiv|A Comprehensive Survey on World Models for Embodied AI|2510.16732
+2026|arXiv|World Action Models: The Next Frontier in Embodied AI|2605.12090
+2026|arXiv|World-Action Models for Robot Learning and Control: A Survey|2609.16074
+2026|arXiv|Do World Models Make Better Robots? A Survey of Evaluation Benchmarks for Predictive Embodied Intelligence|2609.29669
+2009|CVPR|ImageNet: A Large-Scale Hierarchical Image Database|
+2017|CVPR|Scene Parsing Through ADE20K Dataset|
+2014|ECCV|Microsoft COCO: Common Objects in Context|
+2017|arXiv|The 2017 DAVIS Challenge on Video Object Segmentation|1704.00675
+2017|ICCV|The Something Something Video Database for Learning and Evaluating Visual Common Sense|
+2017|arXiv|The Kinetics Human Action Video Dataset|1705.06950
+2022|IJCV|Rescaling Egocentric Vision: Collection, Pipeline and Challenges for EPIC-KITCHENS-100|
+2017|ICASSP|Audio Set: An Ontology and Human-Labeled Dataset for Audio Events|
+2019|ICCV|Revisiting Point Cloud Classification: A New Benchmark Dataset and Classification Model on Real-World Data|
+2016|ACM TOG|A Scalable Active Framework for Region Annotation in 3D Shape Collections|
+2024|arXiv|Learning by Reconstruction Produces Uninformative Features For Perception|2402.11337
+2026|NeurIPS|Joint-Embedding vs Reconstruction: Provable Benefits of Latent Space Prediction for Self-Supervised Learning|
+2025|arXiv|Intuitive physics understanding emerges from self-supervised pretraining on natural videos|2502.11831
+2026|arXiv|Physics-Aligned Self-Supervised Learning for Scientific Imaging|2607.28868
+2026|arXiv|MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation|2607.29180
+2017|ICML|On Calibration of Modern Neural Networks|
+2025|ICML|DINO-WM: World Models on Pre-trained Visual Features Enable Zero-shot Planning|https://proceedings.mlr.press/v267/zhou25t.html
+2025|CoRL|Stress-Testing Offline Reward-Free Reinforcement Learning: A Case for Planning with Latent Dynamics Models|https://openreview.net/forum?id=jON7H6A9UU
+2026|arXiv|Fast LeWorldModel|2606.26217
+2026|arXiv|WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models|2602.08971
+2019|ICML|Learning Latent Dynamics for Planning from Pixels|https://proceedings.mlr.press/v97/hafner19a.html
+2020|ICLR|Dream to Control: Learning Behaviors by Latent Imagination|
+2023|arXiv|RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control|2307.15818
+2021|ICLR|Mastering Atari with Discrete World Models|https://openreview.net/forum?id=0oabwyZbOu
+2023|ICLR|Transformers are Sample-Efficient World Models|
+2020|Nature|Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model|https://doi.org/10.1038/s41586-020-03051-4
+2023|arXiv|Mastering Diverse Domains through World Models|2301.04104
+2018|arXiv|Representation Learning with Contrastive Predictive Coding|1807.03748
+2023|IEEE TAI|World Models for Reinforcement Learning: A Survey|
+2021|ICCV|Emerging Properties in Self-Supervised Vision Transformers|
+2020|NeurIPS|Object-Centric Learning with Slot Attention|
+2022|NeurIPS|VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training|
+2022|CoRL|R3M: A Universal Visual Representation for Robot Manipulation|
+2007|JASA|Strictly Proper Scoring Rules, Prediction, and Estimation|
+2009|Book|Causality|
+2020|ICLR|Data-Efficient Reinforcement Learning with Self-Predictive Representations|
+2018|ICML|Stochastic Video Generation with a Learned Prior|
+2017|Book|Elements of Causal Inference: Foundations and Learning Algorithms|
+2020|CACM|Green AI|
+2022|CVPR|SimMIM: A Simple Framework for Masked Image Modeling|
+2022|ICML|data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language|
+2022|ECCV|MultiMAE: Multi-modal Multi-task Masked Autoencoders|https://doi.org/10.1007/978-3-031-19836-6_20
+2021|Proc. IEEE|Toward Causal Representation Learning|https://doi.org/10.1109/jproc.2021.3058954
+2018|NeurIPS|Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models|
+2017|NeurIPS|Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles|
+2021|ICML|E(n) Equivariant Graph Neural Networks|
+2018|AAAI|Safe Reinforcement Learning via Shielding|https://doi.org/10.1609/aaai.v32i1.11797
+2022|ICLR|Conditional Object-Centric Learning from Video|
+2001|NeurIPS|Predictive Representations of State|https://proceedings.neurips.cc/paper/2001/hash/1e4d36177d71bbb3558e43af9577d70e-Abstract.html
+2004|UAI|Predictive State Representations: A New Theory for Modeling Dynamical Systems|1207.4167
+2022|CVPR|Masked Autoencoders Are Scalable Vision Learners|
+2021|ICCV|An Empirical Study of Training Self-Supervised Vision Transformers|
+2022|ICLR|BEiT: BERT Pre-Training of Image Transformers|
+2022|ICLR|iBOT: Image BERT Pre-Training with Online Tokenizer|
+2024|TMLR|DINOv2: Learning Robust Visual Features without Supervision|
+2025|arXiv|Perception Encoder: The best visual embeddings are not at the output of the network|2504.13181
+2025|arXiv|SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features|2502.14786
+2024|ECCV|InternVideo2: Scaling Foundation Models for Multimodal Video Understanding|
+2024|WACV|Interaction Region Visual Transformer for Egocentric Action Anticipation|
+2023|EMNLP|Video-LLaMA: An Instruction-Tuned Audio-Visual Language Model for Video Understanding|
+2024|CVPR|Can't Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models|
+2021|ICML|Scaling Up Visual and Vision-Language Representation Learning with Noisy Text Supervision|
+2021|NeurIPS|Align before Fuse: Vision and Language Representation Learning with Momentum Distillation|
+2022|ICML|BLIP: Bootstrapping Language-Image Pre-Training for Unified Vision-Language Understanding and Generation|
+2023|CVPR|Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks|
+2023|ICML|BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models|
+2021|ICML|Learning Transferable Visual Models From Natural Language Supervision|
+2022|CVPR|Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling|
+2024|World Scientific Annual Review of AI|Masked Autoencoders for 3D Point Cloud Self-Supervised Learning|
+2022|NeurIPS|Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training|
+2023|GCPR|Point2Vec for Self-Supervised Representation Learning on Point Clouds|
+2023|ICLR|Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?|
+2020|NeurIPS|Language Models are Few-Shot Learners|
+2024|IJCV|Context Autoencoder for Self-Supervised Representation Learning|
+2020|CVPR|Momentum Contrast for Unsupervised Visual Representation Learning|
+2020|arXiv|Improved Baselines with Momentum Contrastive Learning|2003.04297
+2020|NeurIPS|Unsupervised Learning of Visual Features by Contrasting Cluster Assignments|
+2020|CVPR|Self-Supervised Learning of Pretext-Invariant Representations|
+2018|ECCV|Deep Clustering for Unsupervised Learning of Visual Features|
+2018|arXiv|Unsupervised Representation Learning by Predicting Image Rotations|1803.07728
+2015|ICCV|Unsupervised Visual Representation Learning by Context Prediction|
+2016|CVPR|Context Encoders: Feature Learning by Inpainting|
+2019|ICLR|Learning Deep Representations by Mutual Information Estimation and Maximization|
+2019|NeurIPS|Learning Representations by Maximizing Mutual Information Across Views|
+2020|ICML|Data-Efficient Image Recognition with Contrastive Predictive Coding|
+2018|ICRA|Time-Contrastive Networks: Self-Supervised Learning from Video|
+2015|ICCV|Unsupervised Learning of Visual Representations using Videos|
+2018|ECCV|Tracking Emerges by Colorizing Videos|
+2021|ICML|Is Space-Time Attention All You Need for Video Understanding?|
+2021|ICCV|ViViT: A Video Vision Transformer|
+2019|ICCV|SlowFast Networks for Video Recognition|
+2022|CVPR|MViTv2: Improved Multiscale Vision Transformers for Classification and Detection|
+2022|CVPR|Video Swin Transformer|
+2022|CVPR|Masked Feature Prediction for Self-Supervised Visual Pre-Training|
+2023|CVPR|VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking|
+2021|arXiv|VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning|2106.11250
+2021|arXiv|VideoGPT: Video Generation Using VQ-VAE and Transformers|2104.10157
+2020|arXiv|An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale|2010.11929
+2021|ICCV|Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows|
+2021|ICML|Training Data-Efficient Image Transformers & Distillation through Attention|
+2021|ICCV|Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions|
+2022|CVPR|A ConvNet for the 2020s|
+2023|AAAI|PeCo: Perceptual Codebook for BERT Pre-training of Vision Transformers|
+2023|CVPR|EVA: Exploring the Limits of Masked Visual Representation Learning at Scale|
+2024|Image and Vision Computing|EVA-02: A Visual Representation for Neon Genesis|
+2023|ICCV|Segment Anything|
+2021|ICML|Perceiver: General Perception with Iterative Attention|
+2021|arXiv|Perceiver IO: A General Architecture for Structured Inputs and Outputs|2107.14795
+2022|NeurIPS|Flamingo: A Visual Language Model for Few-Shot Learning|
+2023|NeurIPS|Visual Instruction Tuning|
+2022|CoRL|CLIPort: What and Where Pathways for Robotic Manipulation|
+2023|arXiv|ViNT: A Foundation Model for Visual Navigation|2306.14846
+2024|ICRA|Open X-Embodiment: Robotic Learning Datasets and RT-X Models|
+2023|arXiv|Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware|2304.13705
+2025|IJRR|Diffusion Policy: Visuomotor Policy Learning via Action Diffusion|
+2022|arXiv|Do As I Can, Not As I Say: Grounding Language in Robotic Affordances|2204.01691
+2019|NeurIPS|When to Trust Your Model: Model-Based Policy Optimization|
+2022|arXiv|Temporal Difference Learning for Model Predictive Control|2203.04955
+2024|ICLR|TD-MPC2: Scalable, Robust World Models for Continuous Control|
+2019|arXiv|Model-Based Reinforcement Learning for Atari|1903.00374
+2020|arXiv|D4RL: Datasets for Deep Data-Driven Reinforcement Learning|2004.07219
+2020|NeurIPS|Conservative Q-Learning for Offline Reinforcement Learning|
+2021|arXiv|Offline Reinforcement Learning with Implicit Q-Learning|2110.06169
+2021|NeurIPS|Decision Transformer: Reinforcement Learning via Sequence Modeling|
+2021|NeurIPS|Offline Reinforcement Learning as One Big Sequence Modeling Problem|
+2020|ICML|Learning to Simulate Complex Physics with Graph Networks|
+2021|Nature Machine Intelligence|Learning Nonlinear Operators via DeepONet Based on the Universal Approximation Theorem of Operators|
+2020|Annu. Rev. Fluid Mech.|Machine Learning for Fluid Mechanics|
+2023|Science|Learning Skillful Medium-Range Global Weather Forecasting|
+2022|OpenReview|A Path Towards Autonomous Machine Intelligence, Version 0.9.2|https://openreview.net/forum?id=BZ5a1r-kVsf
+2022|ICLR|VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning|https://openreview.net/forum?id=xm6YD62D1Ub
+2024|TMLR|Revisiting Feature Prediction for Learning Visual Representations from Video|2404.08471
+2018|arXiv|World Models|1803.10122
+2025|Nature|Mastering Diverse Control Tasks through World Models|https://doi.org/10.1038/s41586-025-08744-2
+2023|CVPR|ImageBind: One Embedding Space To Bind Them All|
+2026|ACM Computing Surveys|Understanding World or Predicting Future? A Comprehensive Survey of World Models|https://doi.org/10.1145/3746449
+2021|arXiv|Understanding Dimensional Collapse in Contrastive Self-Supervised Learning|2110.09348
+2020|NeurIPS|Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning|https://proceedings.neurips.cc/paper/2020/hash/f3ada80d5c4ee70142b17b8192b2958e-Abstract.html
+2021|CVPR|Exploring Simple Siamese Representation Learning|
+2020|ICML|A Simple Framework for Contrastive Learning of Visual Representations|
+2020|NeurIPS|Denoising Diffusion Probabilistic Models|
+2021|TPAMI|Self-Supervised Visual Feature Learning With Deep Neural Networks: A Survey|https://doi.org/10.1109/tpami.2020.2992393
+2022|ACM Computing Surveys|Transformers in Vision: A Survey|https://doi.org/10.1145/3505244
+2019|TPAMI|Multimodal Machine Learning: A Survey and Taxonomy|https://doi.org/10.1109/tpami.2018.2798607
+2024|NeurIPS|Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion|
+2018|arXiv|DeepMind Control Suite|1801.00690
+2025|ICLR|OGBench: Benchmarking Offline Goal-Conditioned RL|
+2023|ICML|Contrast with Reconstruct: Contrastive 3D Representation Learning Guided by Generative Pretraining|
+2024|ICML|Genie: Generative Interactive Environments|
+2023|arXiv|GAIA-1: A Generative World Model for Autonomous Driving|2309.17080
+2024|ICLR|Learning Interactive Real-World Simulators|
+2024|NeurIPS|Diffusion for World Modeling: Visual Details Matter in Atari|
+2025|arXiv|Cosmos World Foundation Model Platform for Physical AI|2501.03575
+2025|CVPR|Navigation World Models|
